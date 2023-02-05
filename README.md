@@ -1,5 +1,5 @@
 # binaryToDecimal
-Python Package to convert binary to decimal
+A package that converts binary form of data to decimal, to contact me use my website https://karthiks-digital-resume-react.netlify.app and send your queries in contact section
 
 Usage:
 
